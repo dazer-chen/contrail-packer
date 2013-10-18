@@ -1,0 +1,22 @@
+contrail-packer NOTICE
+======================
+
+contrail-packer
+Copyright 2012, John Deatherage
+
+The packer JSON templates are modified versions of the templates
+provided in Opscode's bento project
+
+* https://github.com/opscode/bento
+
+- Author:: Seth Chisamore (<schisamo@opscode.com>)
+- Author:: Stephen Delano (<stephen@opscode.com>)
+- Author:: Joshua Timberman (<joshua@opscode.com>)
+- Author:: Tim Dysinger (<tim@dysinger.net>)
+- Author:: Chris McClimans (<chris@hippiehacker.org>)
+- Author:: Julian Dunn (<jdunn@opscode.com>)
+- Author:: Tom Duffield (<tom@opscode.com>)
+- Author:: Ross Timson (<ross@rosstimson.com>)
+
+Copyright:: 2012-2013, Opscode, Inc (<legal@opscode.com>)
+Copyright:: 2011-2012, Tim Dysinger (<tim@dysinger.net>)
